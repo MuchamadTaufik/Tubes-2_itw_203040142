@@ -1,0 +1,36 @@
+Logo : https://www.pinterest.com/pin/306315212156173704/
+
+slider1 : <span>Photo by <a href="https://unsplash.com/@mercantile?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Clark Street Mercantile</a> on <a href="https://unsplash.com/s/photos/store?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+slider2 : <span>Photo by <a href="https://unsplash.com/@hannahmorgan7?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hannah Morgan</a> on <a href="https://unsplash.com/s/photos/store?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+slider3 : <span>Photo by <a href="https://unsplash.com/@mikepetrucci?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mike Petrucci</a> on <a href="https://unsplash.com/s/photos/store?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+Productmen1 : https://id.pinterest.com/pin/130322982956651190/
+Productmen2 : https://id.pinterest.com/pin/268879040242320328/
+Productmen3 : https://id.pinterest.com/pin/250301691778217756/
+Productmen4 : https://id.pinterest.com/pin/536350636856872247/
+Productmen5 : https://id.pinterest.com/pin/1618549856368882/
+Productmen6 : https://id.pinterest.com/pin/36239971989528324/
+Productmen7 : https://id.pinterest.com/pin/143763413091115262/
+Productmen8 : https://id.pinterest.com/pin/399835273172551783/
+
+
+model1 : <span>Photo by <a href="https://unsplash.com/@heftiba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Toa Heftiba</a> on <a href="https://unsplash.com/s/photos/jacket?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+model2 : <span>Photo by <a href="https://unsplash.com/@adrianordonez?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Adrian Ordonez</a> on <a href="https://unsplash.com/s/photos/t-shirt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+model3 : <span>Photo by <a href="https://unsplash.com/@alice02?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Alicia Petresc</a> on <a href="https://unsplash.com/s/photos/pants?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+productwomen1 : https://id.pinterest.com/pin/849280442227712325/
+productwomen2 : https://id.pinterest.com/pin/674625219174470543/
+productwomen3 : https://id.pinterest.com/pin/21251429480956338/
+productwomen4 : https://id.pinterest.com/pin/781163497863005402/
+productwomen5 : https://id.pinterest.com/pin/589056826259283793/
+productwomen6 : https://id.pinterest.com/pin/296533956720302633/
+productwomen7 : https://id.pinterest.com/pin/401172279314790421/
+productwomen8 : https://id.pinterest.com/pin/617556167649897053/
+
+
+parallax : <span>Photo by <a href="https://unsplash.com/@randomlies?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ashim D’Silva</a> on <a href="https://unsplash.com/s/photos/store?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+
+whattsapp : https://www.flaticon.com/free-icon/whatsapp_733585?term=whatsapp&page=1&position=3&related_item_id=733585
+twitter : flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=3&related_item_id=733579
+instagram : https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=2
